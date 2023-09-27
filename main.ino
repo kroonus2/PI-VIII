@@ -9,8 +9,8 @@
 #define FIREBASE_AUTH "7qHOx0IWAgacH3o8tArVpswA5lm8wkH45wZPZz4s"
 
 //Dados da Rede Wifi
-#define WIFI_SSID "Valeria 26"
-#define WIFI_PASSWORD "1099251000"
+#define WIFI_SSID "?"
+#define WIFI_PASSWORD "?"
 
 //Definindo o pino do sensor de temperatura
 #define DHTPIN D2
